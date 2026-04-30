@@ -229,6 +229,4 @@ Add a short demo video at `docs/assets/demo.mp4` or link to a hosted recording. 
 - Add monitoring dashboard
 - Add cloud deployment
 
-## Resume Bullet
 
-Built a document-intelligence platform using Python, FastAPI, OCR, Pydantic, Docker, and Streamlit to extract, validate, and review structured data from scanned forms and receipts.
