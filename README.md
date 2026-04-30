@@ -269,6 +269,3 @@ The demo will show:
 
 This project helped me practice building a realistic AI application pipeline where extraction accuracy is only one part of the system. I also focused on validation, error handling, human review, testing, and operational readiness, which are important for using AI in real document workflows.
 
-## Resume Summary
-
-Built an end-to-end document intelligence platform using Python, FastAPI, Tesseract OCR, OpenCV, Pydantic, Docker, pytest, and Streamlit to extract, validate, and review structured data from scanned receipts and document images.
